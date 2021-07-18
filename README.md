@@ -1,4 +1,4 @@
-# vue-trello
+# vue-simon
 
 ## Project setup
 ```
